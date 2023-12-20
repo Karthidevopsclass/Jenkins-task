@@ -2,4 +2,4 @@
 
 echo "Hello, this is mytest script!"
 echo "Timestamp: $(date)"
-echo "Testing for Emailn"
+echo "r Emailn"
