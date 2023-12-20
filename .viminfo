@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1703068026,,"wq!"
+|2,0,1703070643,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,21 +25,32 @@
 # Registers:
 
 # File marks:
-'0  4  0  ~/Testscript.sh
-|4,48,4,0,1703068026,"~/Testscript.sh"
+'0  5  36  ~/Testscript.sh
+|4,48,5,36,1703070643,"~/Testscript.sh"
+'1  4  0  ~/Testscript.sh
+|4,49,4,0,1703068026,"~/Testscript.sh"
+'2  4  0  ~/Testscript.sh
+|4,50,4,0,1703068026,"~/Testscript.sh"
 
 # Jumplist (newest first):
+-'  5  36  ~/Testscript.sh
+|4,39,5,36,1703070643,"~/Testscript.sh"
+-'  4  0  ~/Testscript.sh
+|4,39,4,0,1703070526,"~/Testscript.sh"
 -'  4  0  ~/Testscript.sh
 |4,39,4,0,1703068026,"~/Testscript.sh"
+-'  1  0  ~/Testscript.sh
+|4,39,1,0,1703067984,"~/Testscript.sh"
 -'  1  0  ~/Testscript.sh
 |4,39,1,0,1703067984,"~/Testscript.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/Testscript.sh
-	*	1703068024	0
-	"	4	0
-	^	4	0
-	.	3	26
+	*	1703070638	0
+	"	5	36
+	^	5	37
+	.	5	36
 	+	4	25
-	+	3	26
+	+	3	0
+	+	5	36
