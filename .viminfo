@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1703070643,,"wq!"
+|2,0,1703071847,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,26 @@
 # Registers:
 
 # File marks:
-'0  5  36  ~/Testscript.sh
-|4,48,5,36,1703070643,"~/Testscript.sh"
-'1  4  0  ~/Testscript.sh
-|4,49,4,0,1703068026,"~/Testscript.sh"
+'0  5  22  ~/Testscript.sh
+|4,48,5,22,1703071847,"~/Testscript.sh"
+'1  5  36  ~/Testscript.sh
+|4,49,5,36,1703070643,"~/Testscript.sh"
 '2  4  0  ~/Testscript.sh
 |4,50,4,0,1703068026,"~/Testscript.sh"
+'3  4  0  ~/Testscript.sh
+|4,51,4,0,1703068026,"~/Testscript.sh"
+'4  4  0  ~/Testscript.sh
+|4,52,4,0,1703068026,"~/Testscript.sh"
+'5  4  0  ~/Testscript.sh
+|4,53,4,0,1703068026,"~/Testscript.sh"
 
 # Jumplist (newest first):
+-'  5  22  ~/Testscript.sh
+|4,39,5,22,1703071847,"~/Testscript.sh"
 -'  5  36  ~/Testscript.sh
 |4,39,5,36,1703070643,"~/Testscript.sh"
+-'  4  0  ~/Testscript.sh
+|4,39,4,0,1703070526,"~/Testscript.sh"
 -'  4  0  ~/Testscript.sh
 |4,39,4,0,1703070526,"~/Testscript.sh"
 -'  4  0  ~/Testscript.sh
@@ -43,14 +53,16 @@
 |4,39,1,0,1703067984,"~/Testscript.sh"
 -'  1  0  ~/Testscript.sh
 |4,39,1,0,1703067984,"~/Testscript.sh"
+-'  1  0  ~/Testscript.sh
+|4,39,1,0,1703067984,"~/Testscript.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/Testscript.sh
-	*	1703070638	0
-	"	5	36
-	^	5	37
-	.	5	36
+	*	1703071845	0
+	"	5	22
+	^	5	23
+	.	5	23
 	+	4	25
 	+	3	0
-	+	5	36
+	+	5	23
